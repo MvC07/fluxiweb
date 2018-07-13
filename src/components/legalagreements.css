@@ -1,0 +1,17 @@
+.sidebar-LA {
+    overflow: hidden;
+    position: fixed;
+    left: 0; 
+    /* bottom: 460px; */
+}
+
+.content-LA {
+padding-left: 200px;
+background-color: #fff;
+}
+
+.heading-LA {
+text-align: center;
+padding-bottom: 20px;
+
+}

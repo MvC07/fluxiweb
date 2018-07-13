@@ -1,0 +1,16 @@
+.history-wrapper {
+    left: 40%;
+    padding-top: 5px;
+    text-align: left;
+}
+
+.history-wrapper-small {
+    padding-top: 5px;
+    text-align: left;
+    padding-left: 25px;
+}
+
+.wrapper-grey-history {
+    padding-top: 40px;
+    text-align: center;
+}

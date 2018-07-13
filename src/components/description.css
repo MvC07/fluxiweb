@@ -1,0 +1,22 @@
+.content-description {
+  text-align: center;
+  /* border-bottom: solid;
+  border-width: 1px;
+  border-bottom-color: rgba(108, 108, 108, 0.084);
+  padding-bottom: 20px; */
+}
+
+.description-box {
+  width: 100%;
+  padding-top: 20px;
+}
+
+.wrapper-white-description {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  text-align: center;
+}
+
+.image-oldlady {
+  padding-top: 10px;
+}

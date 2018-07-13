@@ -1,0 +1,10 @@
+.text-left {
+  float: left;
+  text-align: right;
+} 
+
+.text-right {
+  float: right;
+  text-align: left;
+  line-height: 23px;
+} 

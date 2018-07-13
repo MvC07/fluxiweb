@@ -1,0 +1,54 @@
+@import '~antd/dist/antd.css';
+
+.navbar {
+    padding: 7px;
+}
+
+.logo {
+  position: relative;
+  float: left;
+  top: -9px;
+  left: 10px;
+
+}
+
+.name {
+  position: relative;
+  padding-left: 25px;
+  float: left;
+  color: rgb(44, 170, 246);
+  top: -8px;
+}
+
+.logo1 {
+  position: relative;
+  float: left;
+  top: -11px;
+  left: 5px;
+}
+
+.name1 {
+  position: relative;
+  float: left;
+  color: rgb(44, 170, 246);
+  top: -8px;
+  left: 10px;
+}
+
+.navbar1 {
+    float: right;
+    padding-right: 25px;
+}
+
+.verticalmenu {
+  float: right;
+  text-align: right;
+}
+
+.button1-navbar {
+  top: -8px;
+}
+
+
+
+

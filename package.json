@@ -1,0 +1,33 @@
+{
+  "name": "fluxiweb",
+  "homepage": "http://www.fluxpower.io",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "antd": "^3.6.4",
+    "marked": "^0.4.0",
+    "prop-types": "^15.6.2",
+    "rc-queue-anim": "^1.6.5",
+    "rc-scroll-anim": "^2.5.3",
+    "rc-tween-one": "^2.1.1",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-favicon": "0.0.14",
+    "react-intl": "^2.4.0",
+    "react-mailto": "^0.4.0",
+    "react-markdown": "^3.3.4",
+    "react-markdown-file": "0.0.4",
+    "react-router-dom": "^4.3.1",
+    "react-router-hash-link": "^1.2.0",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "raw-loader": "^0.5.1"
+  }
+}

@@ -1,0 +1,17 @@
+@import '~antd/dist/antd.css';
+
+
+.App-header {
+  background-color: rgb(255, 255, 255);
+  height: auto;
+  padding: 0px;
+}
+
+.Content {
+  background-color: rgb(255, 255, 255);
+  height: auto;
+}
+
+.App-footer {
+  background-color: rgb(4, 31, 47);
+}

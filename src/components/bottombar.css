@@ -1,0 +1,26 @@
+.footer {
+  background-color:  rgb(4, 31, 47);
+  text-align: center;
+  line-height: 22px;
+  padding: 20px;
+}
+
+.upperfooter {
+   padding-bottom: 30px;
+}
+
+.iconpadding {
+    padding-bottom: 10px;
+    color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 25px;
+
+}
+
+.copyright {
+    border-top: 1px solid rgba(255, 255, 255, 0.25);
+    padding-top: 40px;
+    
+    text-align: center;
+  }

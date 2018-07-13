@@ -1,0 +1,43 @@
+.header-banner {
+    text-align: left;
+    width: 340px;
+    
+}
+
+.heading-banner {
+    padding-bottom: 30px;
+
+}
+
+.header-banner-small {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.content-banner {
+    padding-bottom: 20px;
+}
+
+.button1-banner {
+    right: 5px;
+    top: 10px;
+}
+
+.button2-banner {
+    margin-bottom: 20px;
+    top: 10px;
+    left: 5px;
+}
+
+.button1-banner-big {
+    top: 10px;
+}
+
+.button2-banner-big {
+    top: 10px;
+    left: 8px;
+}
+
+.banner-padding {
+    padding-bottom: 30px;
+}
